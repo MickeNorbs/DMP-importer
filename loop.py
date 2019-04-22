@@ -9,4 +9,4 @@ image_dir='/home/ec2-user/environment/image'
 
 # Remove all names that don't end in .tiff
 #imagelist.remove('fakefile.tf')
-#print(imagelist)
+print(image_dir)
