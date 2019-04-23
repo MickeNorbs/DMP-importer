@@ -1,6 +1,3 @@
 # DMP-importer
 
-git add
-git commit -am ""
-git push
-git pull
+Make sure this file is places inside your workspace directory.
